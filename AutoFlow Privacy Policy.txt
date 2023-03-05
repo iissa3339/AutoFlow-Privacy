@@ -1,6 +1,5 @@
 ﻿AutoFlow Privacy Policy
 
-
 Who are we?
         AutoFlow is a mobile application designed for car enthusiasts and anyone who wants to take better care of their vehicle. At AutoFlow, we understand that car maintenance can be complex and time-consuming, which is why we created an app that simplifies the process and provides valuable resources and tools to help users stay on top of their vehicle's needs. Our app features forums where users can ask and answer questions about automotive issues, a rating system that ensures the best answers are highlighted, and a reminder system that allows users to schedule their maintenance tasks according to their needs. Additionally, AutoFlow offers a feature that allows users to explore local automotive events, connect with other car enthusiasts, and stay up-to-date with the latest news and trends in the industry. At AutoFlow, we're passionate about cars and committed to providing a seamless and convenient experience for all of our users.
 We take the privacy and security of your personal information very seriously. This privacy policy explains how we collect, use, and protect the personal information that we collect through our app.
@@ -89,6 +88,8 @@ As a user of AutoFlow, you have certain rights with respect to your personal inf
 
 
 If you would like to exercise any of these rights, please contact us using the contact details provided below. These requests can be exercised free of charge and we will respond to your request within a reasonable timeframe and in accordance with applicable data protection laws and regulations. Please note that we may need to verify your identity before processing your request. Any requests to exercise.
+Content not allowed and disclaimers:
+AutoFlow does not permit takeover or sideshows and we do not encourage or promote activities as such. Also sharing of illegal or content deemed not suitable by the owner will be removed and might cause the user to be banned from the app. Our maintenance feature recommendation does not guarantee correct maintenance intervals and you should consult with your vehicle manufacturer. AutoFlow is not responsible for any damage done by following or not following our maintenance reminders feature as well as answers received on forums. AutoFlow is also not responsible for any illegal events posted or any damage caused as a result from attending events posted on our app.
 
 
 Children's Privacy:
