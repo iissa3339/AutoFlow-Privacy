@@ -1,5 +1,6 @@
 ﻿AutoFlow Privacy Policy
 
+
 Who are we?
         AutoFlow is a mobile application designed for car enthusiasts and anyone who wants to take better care of their vehicle. At AutoFlow, we understand that car maintenance can be complex and time-consuming, which is why we created an app that simplifies the process and provides valuable resources and tools to help users stay on top of their vehicle's needs. Our app features forums where users can ask and answer questions about automotive issues, a rating system that ensures the best answers are highlighted, and a reminder system that allows users to schedule their maintenance tasks according to their needs. Additionally, AutoFlow offers a feature that allows users to explore local automotive events, connect with other car enthusiasts, and stay up-to-date with the latest news and trends in the industry. At AutoFlow, we're passionate about cars and committed to providing a seamless and convenient experience for all of our users.
 We take the privacy and security of your personal information very seriously. This privacy policy explains how we collect, use, and protect the personal information that we collect through our app.
@@ -34,7 +35,7 @@ We do not share your personal information with third parties except in the follo
 * With our service providers who help us operate our app and provide services to you.
 * To comply with legal obligations or to protect our rights and property.
 Security:
-We take appropriate measures to protect your personal information from unauthorized access, disclosure, or misuse. Most of our data is encrypted and stored securly and safely. However, no security system is foolproof, and we cannot guarantee the security of your personal information.
+We take appropriate measures to protect your personal information from unauthorized access, disclosure, or misuse. Most of our data is encrypted and stored securely and safely. However, no security system is foolproof, and we cannot guarantee the security of your personal information. Unfortunately, the transmission of data over the internet cannot be guaranteed entirely, and while we are fully committed to protecting your information, we cannot fully guarantee your information security and any data that is sent to us is at your own risk.
 
 
 Mode and place of processing the Data
