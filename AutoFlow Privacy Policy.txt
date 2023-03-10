@@ -1,6 +1,9 @@
 ﻿AutoFlow Privacy Policy
 
 
+Please read carefully.
+
+
 Who are we?
         AutoFlow is a mobile application designed for car enthusiasts and anyone who wants to take better care of their vehicle. At AutoFlow, we understand that car maintenance can be complex and time-consuming, which is why we created an app that simplifies the process and provides valuable resources and tools to help users stay on top of their vehicle's needs. Our app features forums where users can ask and answer questions about automotive issues, a rating system that ensures the best answers are highlighted, and a reminder system that allows users to schedule their maintenance tasks according to their needs. Additionally, AutoFlow offers a feature that allows users to explore local automotive events, connect with other car enthusiasts, and stay up-to-date with the latest news and trends in the industry. At AutoFlow, we're passionate about cars and committed to providing a seamless and convenient experience for all of our users.
 We take the privacy and security of your personal information very seriously. This privacy policy explains how we collect, use, and protect the personal information that we collect through our app.
@@ -78,6 +81,17 @@ Provides access to the User's primary email address.
 Detailed information on the processing of Personal Data
 Personal Data is collected for the following purposes and using the following services:
 * Access to third-party accounts
+Your California Privacy Rights
+If you are a California resident, the CCPA allows you to make certain requests about your personal information. Specifically, the CCPA allows you to request us to:
+
+
+Inform you about the categories of personal information we collect or disclose about you; the categories of sources of such information; the business or commercial purpose for collecting your personal information; and the categories of third parties with whom we share/disclose personal information.
+Provide access to and/or a copy of certain personal information we hold about you.
+Delete certain personal information we hold about you.
+Provide you with information about the financial incentives that we offer to you, if any.
+The CCPA further provides you with the right not to be discriminated against (as provided for in applicable law) for exercising your rights. Please note that certain information may be exempt from such requests under California law. For example, we need certain information in order to provide the Services to you. We also will take reasonable steps to verify your identity before responding to a request. In doing so, we may ask you for verification information so that we can match at least two verification points with information we maintain in our files about you. If we are unable to verify you through this method, we shall have the right, but not the obligation, to request additional information from you. If you would like further information regarding your legal rights under California law or would like to exercise any of them, or if you are an authorized agent making a request on a California consumer’s behalf, please contact us using the information in Section 12 below.
+
+
 The rights of Users
 As a user of AutoFlow, you have certain rights with respect to your personal information. These rights may include:
 * The right to access: You have the right to request access to the personal information we hold about you, and to receive a copy of that information.
