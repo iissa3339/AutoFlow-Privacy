@@ -112,6 +112,10 @@ Your Choices:
 You can choose not to provide us with certain types of personal information, but this will limit your ability to use our app.
 
 
+Subscriptions and in app purchases:
+We do not offer any returns or refunds for our in app purchases. All of your banking information and payment information is stored with Google and therefore we do not guarantee this security since we are not the ones responsible for storing this information.
+
+
 Changes to this Privacy Policy:
 We may update this privacy policy from time to time. You can inform us of any updates, modifications, and corrections you make to the user information that we have previously collected. We may change this privacy policy from time to time and for this you should review it periodically. We reserve the right to change, amend or update this privacy policy at any time
 
