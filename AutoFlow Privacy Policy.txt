@@ -1,124 +1,91 @@
-﻿AutoFlow Privacy Policy
+Privacy Policy
+Last Updated: August 27, 2025
+Please read this Privacy Policy carefully. By using Carsentials, you acknowledge that you have read, understood, and agree to the practices described below.
 
+Who We Are
+Carsentials is a mobile application designed for car enthusiasts and anyone who wants to take better care of their vehicles. We simplify the process of vehicle maintenance by providing valuable resources and tools to help users stay on top of their automotive needs.
 
-Please read carefully.
+Features include:
+Forums where users can ask and answer questions.
+A rating system to highlight the best answers.
+A maintenance reminder system.
+Local automotive event listings.
+Community connections for car enthusiasts.
+At Carsentials, we are passionate about cars and committed to ensuring a seamless and safe experience for all our users.
+We also take the privacy and security of your personal information very seriously. This Privacy Policy explains how we collect, use, and protect the information we obtain through our app.
 
+Scope of This Policy
+This Privacy Policy applies to all personal data you provide to us (“User Data”) through our application.
+“You” / “Users” refers to the app user.
+“We” / “Application” refers to Carsentials.
+We comply fully with applicable privacy protection legislation, including GDPR (for EU users) and CCPA (for California residents).
 
-Who are we?
-        AutoFlow is a mobile application designed for car enthusiasts and anyone who wants to take better care of their vehicle. At AutoFlow, we understand that car maintenance can be complex and time-consuming, which is why we created an app that simplifies the process and provides valuable resources and tools to help users stay on top of their vehicle's needs. Our app features forums where users can ask and answer questions about automotive issues, a rating system that ensures the best answers are highlighted, and a reminder system that allows users to schedule their maintenance tasks according to their needs. Additionally, AutoFlow offers a feature that allows users to explore local automotive events, connect with other car enthusiasts, and stay up-to-date with the latest news and trends in the industry. At AutoFlow, we're passionate about cars and committed to providing a seamless and convenient experience for all of our users.
-We take the privacy and security of your personal information very seriously. This privacy policy explains how we collect, use, and protect the personal information that we collect through our app.
+Information We Collect
+We may collect the following types of information when you use Carsentials:
+Personal Information: such as your name, email address, phone number, and other details you provide when creating an account or interacting with the app.
+Location Information: to provide location-based services such as nearby events.
+Usage Information: including the features you use, time spent in the app, and general analytics.
+Cookies & Tracking Data: used to enhance your experience and provide core app services.
+You may choose not to provide certain information, but this may limit the functionality of the app.
 
+How We Use Your Information
+We use the collected data for purposes including:
+Delivering services such as forums, maintenance reminders, and event listings.
+Communicating with you about updates, promotions, or important notices.
+Improving app performance, functionality, and user experience.
+Ensuring compliance with applicable laws and regulations.
 
-This privacy policy applies to all personal data, which you provide to us (“user data”) through our application. This privacy policy is designed to enhance your confidence in the privacy and safety of your personal information details.
-        "You” and “Users” refers to you, the app user.
-        “We” and “Application” means the “AutoFlow” application in English, Arabic, and Spanish
-        We deal with all personal data and user information in full compliance with all privacy protection legislation
+Sharing Your Information
+We do not sell your data. We may share limited personal data in the following cases:
+With your consent.
+With trusted service providers who help us operate the app.
+When required by law or to protect our rights, safety, or property.
 
+Security
+We implement industry-standard measures (including encryption and secure storage) to protect your information. However, no system is 100% secure. Data transmission over the internet is at your own risk.
 
-Information We Collect:
-We may collect the following types of information from you when you use our app:
-* Personal information: such as your name, email address, phone number, and other identifying information that you provide to us when you create an account or interact with our app.
-* Location information: We may collect your location information to provide you with location-based services such as finding nearby car meets.
-* Usage information: We collect information about how you use our app, such as the features you use and the time you spend using the app.
-Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.
-Unless specified otherwise, all Data requested by this Application is mandatory and failure to provide this Data may make it impossible for this Application to provide its services. In cases where this Application specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.
-Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.
-Any use of Cookies – or of other tracking tools – by this Application or by the owners of third-party services used by this Application serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.
-Users are responsible for any third-party Personal Data obtained, published or shared through this Application and confirm that they have the third party's consent to provide the Data to the Owner.
+Data Processing & Legal Basis
+Data may be processed by our internal teams or trusted third parties under strict confidentiality agreements.
+Processing may occur under different legal bases, including your consent, contractual necessity, or legitimate interests.
+Depending on your location, data may be transferred outside your country. Safeguards are applied where legally required.
 
+Retention of Data
+We retain your information only as long as necessary to fulfill the purposes described in this policy, comply with legal obligations, or resolve disputes.
 
-How We Use Your Information:
-We do not collect personal data about you only for the sake of its collection, we use your personal information for the following purposes:
-* To provide you with the services you requested, such as hosting forums, finding nearby car meets, and sending maintenance reminders.
-* To communicate with you about our services, promotions, and other news.
-* To improve our app and services.
-Sharing Your Information:
-We do not share your personal information with third parties except in the following circumstances:
-* With your consent.
-* With our service providers who help us operate our app and provide services to you.
-* To comply with legal obligations or to protect our rights and property.
-Security:
-We take appropriate measures to protect your personal information from unauthorized access, disclosure, or misuse. Most of our data is encrypted and stored securely and safely. However, no security system is foolproof, and we cannot guarantee the security of your personal information. Unfortunately, the transmission of data over the internet cannot be guaranteed entirely, and while we are fully committed to protecting your information, we cannot fully guarantee your information security and any data that is sent to us is at your own risk.
+Your Rights
+Depending on your location, you may have the following rights:
+Access: Request a copy of the data we hold about you.
+Correction: Update inaccurate or incomplete data.
+Deletion: Request deletion of your personal data (subject to legal obligations).
+Restriction: Limit how your data is processed.
+Portability: Transfer your data to another provider.
+Objection: Object to certain processing activities.
+To exercise these rights, contact us at support@carsentials.app
 
+Children’s Privacy
+Carsentials is not intended for children under 13. We do not knowingly collect data from children under 13. If we learn that we have collected such information, we will delete it promptly.
 
-Mode and place of processing the Data
-Methods of processing
-The Application takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
-The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Application (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.
-Legal basis of processing
-The Owner may process Personal Data relating to Users if one of the following applies:
-* Users have given their consent for one or more specific purposes. Note: Under some legislations the Owner may be allowed to process Personal Data until the User objects to such processing (“opt-out”), without having to rely on consent or any other of the following legal bases. This, however, does not apply, whenever the processing of Personal Data is subject to European data protection law;
-* provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof;
-* processing is necessary for compliance with a legal obligation to which the Owner is subject;
-* processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Owner;
-* processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
-In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
-Place
-The Data is processed where the parties involved in the processing are located.
-Depending on the User's location, data transfers may involve transferring the User's Data to a country other than their own.
-Users are also entitled to learn about the legal basis of Data transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data.
-If any such transfer takes place, Users can find out more by contacting the owner.
-Retention time
-Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.
-Therefore:
-* Personal Data collected for purposes related to the performance of a contract between the Owner and the User shall be retained until such contract has been fully performed.
-* Personal Data collected for the purposes of the Owner’s legitimate interests shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the Owner within the relevant sections of this document or by contacting the Owner.
-The Owner may be allowed to retain Personal Data for any period of time. Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority.
-The purposes of processing
-The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: Access to third-party accounts.
-For specific information about the Personal Data used for each purpose, the User may refer to the section “Detailed information on the processing of Personal Data”.
-Facebook permissions & Google permission asked by this Application
-This Application may ask for some Facebook permissions allowing it to perform actions with the User's Facebook or Google account and to retrieve information, including Personal Data, from it. This service allows this Application to connect with the User's account on the Facebook social network, provided by Facebook Inc.
-For more information about the following permissions, refer to the Facebook and Google permissions documentations and to the Facebook privacy policy and Google privacy policy.
-The permissions asked are the following:
-Basic information
-By default, this includes certain User’s Data such as id, name, picture, gender, and their locale. Certain connections of the User, such as the Friends, are also available. If the User has made more of their Data public, more information will be available.
-Email
-Provides access to the User's primary email address.
-Detailed information on the processing of Personal Data
-Personal Data is collected for the following purposes and using the following services:
-* Access to third-party accounts
-Your California Privacy Rights
-If you are a California resident, the CCPA allows you to make certain requests about your personal information. Specifically, the CCPA allows you to request us to:
+Subscriptions & In-App Purchases
+Purchases are handled securely through Google Play.
+We do not store banking or payment data.
+All in-app purchases are final. We do not offer refunds.
 
+Content Restrictions & Disclaimers
+Carsentials does not permit illegal content or inappropriate material. Violations may result in account suspension or removal.
+Maintenance reminders are general suggestions only. Always refer to your vehicle manufacturer’s guidelines.
+Carsentials is not liable for damages arising from use of the app, including reliance on forum content, reminders, or event postings.
 
-Inform you about the categories of personal information we collect or disclose about you; the categories of sources of such information; the business or commercial purpose for collecting your personal information; and the categories of third parties with whom we share/disclose personal information.
-Provide access to and/or a copy of certain personal information we hold about you.
-Delete certain personal information we hold about you.
-Provide you with information about the financial incentives that we offer to you, if any.
-The CCPA further provides you with the right not to be discriminated against (as provided for in applicable law) for exercising your rights. Please note that certain information may be exempt from such requests under California law. For example, we need certain information in order to provide the Services to you. We also will take reasonable steps to verify your identity before responding to a request. In doing so, we may ask you for verification information so that we can match at least two verification points with information we maintain in our files about you. If we are unable to verify you through this method, we shall have the right, but not the obligation, to request additional information from you. If you would like further information regarding your legal rights under California law or would like to exercise any of them, or if you are an authorized agent making a request on a California consumer’s behalf, please contact us using the information in Section 12 below.
+Your California Privacy Rights (CCPA)
+If you are a California resident, you may request:
+Information on categories of personal data we collect and share.
+Access to your data.
+Deletion of your data.
+Details on financial incentives (if any).
+We will not discriminate against you for exercising these rights. Identity verification may be required.
 
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Updates will be effective immediately upon posting within the app. We encourage you to review this page periodically.
 
-The rights of Users
-As a user of AutoFlow, you have certain rights with respect to your personal information. These rights may include:
-* The right to access: You have the right to request access to the personal information we hold about you, and to receive a copy of that information.
-* The right to rectification: If you believe that any of the personal information we hold about you is inaccurate or incomplete, you have the right to request that we correct or complete that information.
-* The right to erasure: In certain circumstances, you may have the right to request that we delete the personal information we hold about you.
-* The right to restrict processing: You may have the right to request that we limit the processing of your personal information in certain circumstances.
-* The right to data portability: You have the right to receive the personal information we hold about you in a structured, commonly used, and machine-readable format, and to transmit that information to another data controller.
-* The right to object: You may have the right to object to the processing of your personal information in certain circumstances.
-
-
-If you would like to exercise any of these rights, please contact us using the contact details provided below. These requests can be exercised free of charge and we will respond to your request within a reasonable timeframe and in accordance with applicable data protection laws and regulations. Please note that we may need to verify your identity before processing your request. Any requests to exercise.
-Content not allowed and disclaimers:
-AutoFlow does not permit takeover or sideshows and we do not encourage or promote activities as such. Also sharing of illegal or content deemed not suitable by the owner will be removed and might cause the user to be banned from the app. Our maintenance feature recommendation does not guarantee correct maintenance intervals and you should consult with your vehicle manufacturer. AutoFlow is not responsible for any damage done by following or not following our maintenance reminders feature as well as answers received on forums. AutoFlow is also not responsible for any illegal events posted or any damage caused as a result from attending events posted on our app.
-
-
-Children's Privacy:
-Our app is not intended for children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
-
-
-Your Choices:
-You can choose not to provide us with certain types of personal information, but this will limit your ability to use our app.
-
-
-Subscriptions and in app purchases:
-We do not offer any returns or refunds for our in app purchases. All of your banking information and payment information is stored with Google and therefore we do not guarantee this security since we are not the ones responsible for storing this information.
-
-
-Changes to this Privacy Policy:
-We may update this privacy policy from time to time. You can inform us of any updates, modifications, and corrections you make to the user information that we have previously collected. We may change this privacy policy from time to time and for this you should review it periodically. We reserve the right to change, amend or update this privacy policy at any time
-
-
-Contact Us:
-If you have any questions or concerns about our privacy policy, please contact us at autoflow.team@gmail.com.
+Contact Us
+If you have any questions about this Privacy Policy or our data practices, please contact us at:
+📧 support@carsentials.app
